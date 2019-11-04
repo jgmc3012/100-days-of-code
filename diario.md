@@ -15,4 +15,15 @@
 
 Donde pase mas tiempo fue en Js; No lograba iterar un agreglo y modificarlo desde alguno de sus metodos, Al final termine haciendolo en un for normal.
 
-**Enlace a mi trabajo:** [CodePen](https://codepen.io/jgmc3012-the-scripter/pen/abbEeKa).
+**Enlace a mi trabajo:** [CodePen](https://codepen.io/jgmc3012/pen/abbEeKa).
+
+## Día 3: 04 de noviembre del 2019
+
+**Progreso de hoy:** Trabaje en la logica del buscaminas. Y coloque algunas animaciones. Hoy trabaje con las transformaciones. 
+
+**Reflexiones:** Senti que perdi o bueno, mal inverti mucho tiempo trabajando con el editor de CodePen. Creo que lo mejor sera trabajar en VSCode. Aun no manejo al 100% las transformaciones, especialmente el *transform-origin*.
+
+En la parte de Js a pesar de  que no es muy grande. Seria mucho mejor trabajar en modulos, seria mas facil de mantener.
+Espero mañana volver con el proyecto del sistema de pagos.
+
+**Enlace a mi trabajo:** [CodePen](https://codepen.io/jgmc3012/pen/dyydvOq).
