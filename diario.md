@@ -27,3 +27,11 @@ En la parte de Js a pesar de  que no es muy grande. Seria mucho mejor trabajar e
 Espero mañana volver con el proyecto del sistema de pagos.
 
 **Enlace a mi trabajo:** [CodePen](https://codepen.io/jgmc3012/pen/dyydvOq).
+
+## Día 4: 08 de noviembre del 2019
+
+**Progreso de hoy:** Hoy practique con algunos mini programas de una [pagina](http://pywombat.com/ejercicios/) sobre ejercicios para practicar python. En los archivos de cada mini programa esta un enunciado.
+
+**Reflexiones:** Recorde que lo que no se practica no se aprende. Pense que manejaba con suficiente fluidez del lenguaje, pero no es asi. A pesar de que tengo conocimiento sobre ciertas bases y se algunas cosas del lenguaje nada mas que la practica me permitira una correcta fluidez. Me trave en algunas cosas, pero me alegra 'saber que no se', pues ya se algo de lo que no esta funcionando y lo puedo corregir. Python es un lenguaje que me llama mucho la atencion, creo que tengo un gran futuro aca.
+
+**Enlace a mi trabajo:** [Commit del repositorio](https://github.com/jgmc3012/mini-programs/commit/2c383814ac108cc3ee20397d231fad550602fef8).
