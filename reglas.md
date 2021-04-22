@@ -7,6 +7,7 @@
 #### Fecha de inicio
 
 02 de noviembre de 2019. [Jesus Gabriel Millan Corobo]
+21 de abril de 2021 - 2da Ronda. [Jesus Gabriel Millan Corobo]
 
 ## Reglas adicionales
 
