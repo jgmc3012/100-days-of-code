@@ -15,3 +15,8 @@
 **Reflexiones:** Fue un dia bastante chevere. Me gusto jugar con los datos.
 
 **Enlace a mi trabajo:** [Avances en GitHub](https://github.com/jgmc3012/platzi-scraper/pull/1)
+
+## Día 3: 23 de abril del 2021
+
+**Progreso de hoy**: Conclui el curso de Visualizacion de datos para BI en platzi. Y comence el curso de fundamentos de AWS. 
+
