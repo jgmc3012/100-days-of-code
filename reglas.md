@@ -8,6 +8,7 @@
 
 02 de noviembre de 2019. [Jesus Gabriel Millan Corobo]
 21 de abril de 2021 - 2da Ronda. [Jesus Gabriel Millan Corobo]
+04 de septiembre de 2021 - 3da Ronda. [Jesus Gabriel Millan Corobo]
 
 ## Reglas adicionales
 
