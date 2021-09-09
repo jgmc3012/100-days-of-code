@@ -26,3 +26,14 @@ Por otro lado. Aprendi las nociones basicas de Ruby. Tipos de datos. Y condicion
 BTW: Ruby es muy pero muy similar a Python.
 
 **Enlace a mi trabajo:** [Avances en GitHub](https://github.com/jgmc3012/bookstore_oauth-go)
+
+## Día 4: 07 de septiembre del 2021
+
+**Progreso de hoy**: Hoy fur un dia bastante cansado. No adelante mucho en el proyecto. Pero aprendi modulo en Go. concurrencia, clases y budler en Ruby
+
+## Día 5: 08 de septiembre del 2021
+
+**Progreso de hoy**: Aprendimos de testing en ruby y comenzamos el proyecto del curso de platzi que es un juego de snake.
+
+**Reflexiones**: Ver codigo de otras personas es una gran forma de aprender. Pero mas alla de ver el codigo es lograr entender como ellos piensan como funciona su forma de armar una soluction.
+
