@@ -37,3 +37,13 @@ BTW: Ruby es muy pero muy similar a Python.
 
 **Reflexiones**: Ver codigo de otras personas es una gran forma de aprender. Pero mas alla de ver el codigo es lograr entender como ellos piensan como funciona su forma de armar una soluction.
 
+## Día 6: 09 de septiembre del 2021
+
+**Progreso de hoy**: continuamos con la logica del juego de snake. Se dibuja en pantalla todos los compenentes del juego
+
+**Reflexiones:** Tomar otros cursos y literaturas. Ruby puede ser un lenguaje bastante enredado en el tema de los namespaces. Es poco clara a quien pertenece el metodo que se esta implementado. Hay una oportunidad para aprender como funciona el lenguaje internamente
+
+**Enlace a mi trabajo:** [Avances en GitHub](https://github.com/jgmc3012/snake-game)
+
+
+
