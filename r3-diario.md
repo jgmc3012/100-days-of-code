@@ -51,6 +51,9 @@ BTW: Ruby es muy pero muy similar a Python.
 **Reflexiones:** Es muy cool ver a otros escribir codigo y aprender de ello. Hoy me cuestione mucho de lo poco que aplico SOLID a almenos el principio de reponsabilidad unica. En el curso de platzi(Algo malo para principiantes) el profesor se nota que tiene experiencia y la forma en que organiza el codigo y maneja la arquitectura de la aplicacion es genial y admirable
 
 **Enlace a mi trabajo:** [Avances en GitHub](https://github.com/jgmc3012/snake-game)
+## Día 8: 11 de septiembre del 2021
 
+**Progreso de hoy**: repace varios conceptos de Ruby con el curso de Raul palacios en Youtube
+**Reflexiones:** Todos tienen formas distintas de aprender. Esta bueno ver videos pero la documentacion oficial siempre es superior en muchos aspectos. Puede que a veces sea enredada pero te indica a detalle como funcionan las cosas. Hoy aprendi uno vacios que me habia dejado el curso de platzi referente a las Clases, propiedades y metodos.
 
 
