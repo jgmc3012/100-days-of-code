@@ -56,4 +56,19 @@ BTW: Ruby es muy pero muy similar a Python.
 **Progreso de hoy**: repace varios conceptos de Ruby con el curso de Raul palacios en Youtube
 **Reflexiones:** Todos tienen formas distintas de aprender. Esta bueno ver videos pero la documentacion oficial siempre es superior en muchos aspectos. Puede que a veces sea enredada pero te indica a detalle como funcionan las cosas. Hoy aprendi uno vacios que me habia dejado el curso de platzi referente a las Clases, propiedades y metodos.
 
+## Día 9: 12 septiembre del 2021
+
+**Progreso de hoy**:
+
+- [Documentacion](https://www.notion.so/PRs-Reviews-on-Notion-Database-5284002a08004dbebc7feb1094d26c34) base para el proyecto de monitorear los PRs de bitbucket y su estatus en QA.
+
+- Creacion de APIs en Rails para el listado y busqueda de un blog.
+
+- Configuracion de Ruby en un entorno local para tener acceso a la documentacion de las gemas.
+
+**Reflexiones:** Aun me cuesta un poco adaptarme a RoR. Hay cosas que no me gustan. Pero creo que una vez que lo aprendes a usar es super potente. Si se puede aplicar alguna especie de DDD opara medio dividir los dominios. Seria brutal.
+
+RSpec utiliza un metodo para realizar pruebas que me parece conocido de CodelyTv. Es muy cool, investigare mas al respecto
+
+**Enlace a mi trabajo:** [Avances en GitHub](https://github.com/jgmc3012/blog-api-on-ror) y el enlace a la Doc de Notion para la app de los PRs
 
