@@ -72,3 +72,11 @@ RSpec utiliza un metodo para realizar pruebas que me parece conocido de CodelyTv
 
 **Enlace a mi trabajo:** [Avances en GitHub](https://github.com/jgmc3012/blog-api-on-ror) y el enlace a la Doc de Notion para la app de los PRs
 
+## Día 10: 13 septiembre del 2021
+
+**Progreso de hoy**: Creacion de las APIs para la creacion y actualizacion de Post en el blogAPI de RoR
+
+**Reflexiones**: Ruby al igual que Python son leguajes de programacion y su framework es eso. Un framework que se acopla al lenguaje. Siempre vamos a poder customizar la estructira de un framework. Sea cual sea. Acá un repo de unos chicos que implementarion [DDD con Rails](https://github.com/Creditas/ddd-rails-sample). Esta bueno para echarle un ojo.
+
+
+**Enlace a mi trabajo:** [Avances en GitHub](https://github.com/jgmc3012/blog-api-on-ror)
