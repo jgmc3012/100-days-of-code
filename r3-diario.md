@@ -80,3 +80,12 @@ RSpec utiliza un metodo para realizar pruebas que me parece conocido de CodelyTv
 
 
 **Enlace a mi trabajo:** [Avances en GitHub](https://github.com/jgmc3012/blog-api-on-ror)
+
+## Día 11: 14 septiembre del 2021
+
+**Progreso de hoy**: Implementation de Authenticacion en las APIs
+
+**Reflexiones**: Ya casi termino el curso. Creo que vendria bien revisar la doc oficial de rails y configurar mejor el ambiente en local para se mas productivo. Rail es un framewokr con mucha meta programacion pero en Vscode no tengo todo el contexto de los metodos disponibles
+
+**Enlace a mi trabajo:** [Avances en GitHub](https://github.com/jgmc3012/blog-api-on-ror)
+
