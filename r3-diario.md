@@ -1,4 +1,4 @@
-# 100 días de código - diario - Jesus Gabriel Millan Corobo
+****# 100 días de código - diario - Jesus Gabriel Millan Corobo
 
 ## Día 1: 04 de septiembre del 2021
 
@@ -89,3 +89,8 @@ RSpec utiliza un metodo para realizar pruebas que me parece conocido de CodelyTv
 
 **Enlace a mi trabajo:** [Avances en GitHub](https://github.com/jgmc3012/blog-api-on-ror)
 
+## Día 12: 15 septiembre del 2021
+
+**Progreso de hoy**: Implementacion de trabajos en segundo plano
+
+**Enlace a mi trabajo:** [Avances en GitHub](https://github.com/jgmc3012/blog-api-on-ror)
