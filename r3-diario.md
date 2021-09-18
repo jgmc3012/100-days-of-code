@@ -102,3 +102,9 @@ RSpec utiliza un metodo para realizar pruebas que me parece conocido de CodelyTv
 **Reflexiones**: Necesitamos leer la documentacion. Creo que eso fue algo que nos ayudo mucho en DRF. Que siempre aprendimos lo que necesitabamos de la doc oficial
 
 **Enlace de mi trabajo**: [Avance en GitHub](https://github.com/jgmc3012/store-with-ror)
+
+## Día 14: 17 septiembre del 2021
+
+**Progreso de hoy**: Aprendi a utiliza jbuilder y otras pequeñas utilidades de rails.
+
+**Enlace de mi trabajo**: [Avance en GitHub](https://github.com/jgmc3012/store-with-ror)
