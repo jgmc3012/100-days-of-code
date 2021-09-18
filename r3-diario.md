@@ -94,3 +94,11 @@ RSpec utiliza un metodo para realizar pruebas que me parece conocido de CodelyTv
 **Progreso de hoy**: Implementacion de trabajos en segundo plano
 
 **Enlace a mi trabajo:** [Avances en GitHub](https://github.com/jgmc3012/blog-api-on-ror)
+
+## Día 13: 16 septiembre del 2021
+
+**Progreso de hoy**: Conclui el curso y proyecto de platzi. Inicie un curso mas detallado en codigo facilito impartido por Vurokrazia
+
+**Reflexiones**: Necesitamos leer la documentacion. Creo que eso fue algo que nos ayudo mucho en DRF. Que siempre aprendimos lo que necesitabamos de la doc oficial
+
+**Enlace de mi trabajo**: [Avance en GitHub](https://github.com/jgmc3012/store-with-ror)
